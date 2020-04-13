@@ -1,0 +1,26 @@
+name: "Jerry Chee"
+output_dir: "."
+navbar:
+  title: "Jerry Chee"
+  left:
+    - text: "Curriculum Vitae"
+      href: career.html
+    - text: "Testimonials"
+      href: testimonials.html
+    - text: "Education"
+      href: education.html
+    - text: "Articles"
+      href: articles.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: "mailto:jerrycheewy@gmail.com"
+    #- icon: fa-github fa-lg
+    #  href: http://github.com/zabore
+    #- icon: fa-twitter fa-lg
+    #  href: https://twitter.com/zabormetrics
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/jerrychee/
+output:
+  html_document:
+    theme: paper
+    #css: 'styles.css'

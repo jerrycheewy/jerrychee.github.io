@@ -1,0 +1,16 @@
+---
+title: "About me"
+#author: "Jerry Chee"
+#date: "4/13/2020"
+output: html_document
+---
+
+<img src="images/profilephoto.jpg" style="width:30%; border:2px solid; margin-right: 20px" align="left">
+
+I like using data to help people make **informed decisions**, **engage audience** with a stronger narrative or simply to **see their world differently**.
+
+Since the beginning of my career in 2013, I've been pursuing opportunities to do just that and have successfully transitioned into increasingly data-centric roles.
+
+What drives me at work and play is the ability to make a difference, and if possible, to do so with as many people as possible. I believe that relationships and teamwork are what make organisations tick, so I enjoy developing code and writing/teaching about code to empower others as I go about this journey.
+
+I spend much of my personal time with my family, learning Python3 and the remainder reading the [FT](https://www.ft.com/), [RBloggers](https://www.r-bloggers.com/), [Tidyverse](https://www.tidyverse.org/), [TowardsDataScience](https://towardsdatascience.com/), [TechCrunch](https://techcrunch.com/), [Mothership.sg](https://mothership.sg/).

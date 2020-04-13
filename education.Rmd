@@ -1,0 +1,34 @@
+---
+#title: "education"
+#author: "Jerry Chee"
+#ate: "4/13/2020"
+output: html_document
+---
+## Certifications
+
+* [Data Science and Data Engineering](https://certification.datasciencedojo.com/verify/2f9b3be3), *November 2019*
+* [SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/PW22S5FJJXV6), *October 2019*
+* Data Modeling for Qlik Sense, *June 2019*
+* Creating Visualizations with Qlik Sense, *May 2019*
+
+-------------------------
+
+## Institutions
+
+#### Singapore Management University, 
+**Degree: Bachelor of Business Management (BBM) | Major: Quantitative Finance**
+*July 2009 - May 2013*
+
+* **Enterprise Development Scholarship** *(awarded by Enterprise Singapore)*
+* EXCO and trainer - Peer Counselling
+* EXCO and competitve doubles player - Badminton
+* Analyst, Industrials - SMU-Investment Fund
+
+#### Victoria Junior College
+**Further Mathematics, Mathematics, Economics, Physics**
+*January 2005 - September 2007*
+
+* EXCO and competitive doubles player - Badminton
+
+#### Dunman High Secondary
+*January 2001 - December 2004*

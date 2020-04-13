@@ -1,0 +1,27 @@
+---
+#title: "Testimonials"
+#author: "Jerry Chee"
+#date: "4/13/2020"
+output: html_document
+---
+### Temasek
+![Temasek 1](images/recom1.JPG)
+![Temasek 2](images/recom2.JPG)
+![Temasek 3](images/recom3.JPG)
+
+-------------------
+
+### Eastspring Investments
+![Eastspring 1](images/recom4.JPG)
+![Eastspring 2](images/recom5.JPG)
+![Eastspring 3](images/recom6.JPG)
+![Eastspring 4](images/recom7.JPG)
+![Eastspring 5](images/recom8.JPG)
+
+--------------------
+
+### Others
+![Spring](images/recom9.JPG)
+![DCatalyst](images/recom10.JPG)
+
+--------------------

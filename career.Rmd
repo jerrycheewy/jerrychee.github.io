@@ -1,19 +1,91 @@
 ---
-#title: "Career"
+#title: "Professional Experience"
 #author: "Jerry Chee"
-date: "4/13/2020"
+date: Sys.Date()
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+## Professional Experience
 
-## Temasek - Data Analytics (Quantitative Strategies & Performance)
-Text text
+### [Temasek International](https://www.temasek.com.sg/en/who-we-are/about-us)
+#### Associate Director, Quantitative Strategies & Performance
+*July 2017 - Present*
 
-## Eastspring Investments - Portfolio Specialist
-Text text
+**Research & Analysis - Equity/Portfolio Strategy**
 
-## Enterprise Singapore - Partnerships & Policy
-Text text
+* Primary research on unconventional topics (eg. Using Equity Risk Premia to infer investors’ holding periods / Are all IPOs profitable?)
+* Develop analytical frameworks to quantify portfolio managers’ skill in exposure mgmt., position sizing, timing, stock selection
+* Design and develop team factsheets that accompany deal approvals at senior investment committees
+* Internal consultant to portfolio managers/CIO to identify and quantify drivers of investment performance
+
+**Data Analytics & Engineering** 
+
+* Develop and optimise performance of function libraries for data ingestion/ETL, visualisation and analysis models | Conduct R trainings
+* Lead for assessing new internal & external data + APIs (Bloomberg, FactSet, Factiva, Financial Times, Preqin, ESG)
+* Drive adoption of tech-stack to support reproducible research across Jira, BitBucket (Git), Cloudera CDSW, AWS SageMaker
+* Design, develop and deploy Tableau dashboards based on daily data (interactivity incl. Actions, Chart tooltips)
+* Overhauled reporting data pipeline, saving team 18 hours a month
+* Mentor three junior staff and interns on analytics research and data processing optimization on ongoing basis
+
+**Moonshot projects**
+
+* Supervised learning (Random Forest) in identification of potential troubled assets
+* Sentiment analysis with text by scraping deal presentation decks
+
+------------------------------------
+
+### [Eastspring Investments](https://www.eastspring.com/sg/about-us/company-overview)
+#### Portfolio Specialist, Asian Equities and Quantitative Investment Strategies
+*July 2015 - July 2017*
+
+* Articulate investment strategies and market commentary for fund reports and insight articles
+* Participate in portfolio strategy and construction with investment teams, using R, Factset and Bloomberg for analysis and visualisation
+* Pioneered Competitor Analysis on Quant funds for the firm
+* Creation of pitch books for both Asian and Global Low Volatility Equity products
+
+------------------------------------
+
+### [Enterprise Singapore](https://www.enterprisesg.gov.sg/about-us/overview)
+#### Analyst, Partnerships & Policy
+*June 2013 - July 2015*
+
+* Write policy papers to support annual budgets of $6.5m, based on research of SME profiles and behaviour
+* Design and execute schemes to assist SMEs in business management, reaching out to over 4,000 companies
+* Account manager of two chambers of commerce; leveraging their membership to execute the [SME Centre programme](https://www.smeportal.sg/content/smeportal/en/resources/sme-centres.html)
+* Worked the ground with SME Centre to outreach to micro-small enterprises
+* Pioneered quantitative analytics on the effectiveness of grants alongside resident Data Scientist
+* Special project for Private Equity subsidiary - Feasibility study on SGX-Catalist board as a viable exit strategy
+
+------------------------------------
+
+## Internships
+
+### [Morgan Stanley](https://www.morganstanley.com/people-opportunities/students-graduates/programs/institutional-securities/sales-and-trading/institutional-equity-summer-analyst-north-america)
+#### Institutional Equity Sales (Extended Internship)
+*May 2011 - January 2012*
+
+* Summarising daily key research for various buyside clients
+* Supported book-building events and client engagement
+* Write weekly bulletin which incorporates popular research and my original ideas from market observations
+
+### D-Catalyst, Design Thinking
+#### Trainee, Management Consultant
+*January 2013 - April 2013*
+
+* Consulted on a $200k healthcare industry project to increase the client’s patient retention at clinics
+* Deliver implementable solutions to improve clinic environment, process and patient engagement
+
+### [Enterprise Singapore](https://www.enterprisesg.gov.sg/industries/type/healthcare-and-biomedical/industry-profile)
+#### Industry Development, Biomedical and Healthcare Services
+*January 2013 - April 2013*
+
+* One of five interns (cohort of 20) recognised for excellent contribution
+* Account management of healthcare companies, ranging across lifesciences and logistics
+
+### [UOB-SMU Asian Enterprise Institute](https://usaei.smu.edu.sg/usaei/sme-consulting/overview)
+#### Practicum consulting
+*March 2011 - July 2011*
+
+* Executed a market penetration study for a local company in the LED industry
+* Conducted primary research across 8 in-person interviews with architects, interior designers and contractors
+

@@ -1,0 +1,34 @@
+---
+#title: "articles"
+#author: "Jerry Chee"
+#date: "4/13/2020"
+output: html_document
+---
+
+I'm working on compiling the articles I've written over the course of work and leisure into a website. You may view them separately via the links below.
+
+**Working with data**
+
+1. [Creating easy heatmaps with ggplot2](https://github.com/jerrycheewy/aRticles/blob/master/IntroHeatmap.md)
+
+2. [Using R's ellipsis in a function](https://github.com/jerrycheewy/aRticles/blob/master/Using_ellipsis.md)
+
+3. ['Dynamic' `dplyr`](https://github.com/jerrycheewy/aRticles/blob/master/dynamic_dplyr_verb.md)
+
+4. [What is 'Tidy' data?](https://github.com/jerrycheewy/aRticles/blob/master/tidydata.md)
+
+5. [Improve your wrangling speed with `dtplyr`](https://www.linkedin.com/pulse/improve-your-wrangling-speed-dtplyr-jerry-chee/)
+
+6. [My key principles to practising data science](https://www.linkedin.com/pulse/my-key-principles-practising-data-science-jerry-chee/)
+
+7. [Misconception between reporting and analysis](https://www.linkedin.com/pulse/misconception-between-reporting-analysis-jerry-chee/)
+
+--------------------------
+
+**Management**
+
+1. [Three ways to inspire and influence](https://www.linkedin.com/pulse/20141209033506-63162631-3-ways-to-inspire-and-influence/)
+
+2. [What shark tank teaches us about communication](https://www.linkedin.com/pulse/what-shark-tank-teaches-us-communication-jerry-chee-weiyang/)
+
+3. [Three real world challenges of a data science practitioner](https://www.linkedin.com/pulse/3-real-world-challenges-data-scientist-hint-none-them-jerry-chee/)
