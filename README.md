@@ -22,7 +22,8 @@ Sample markdown text, placeholder while I do up my webpage...
 
 7. `Inline code`
 
-8. ```r 
+8. 
+```r 
 #This is some code with R syntax highlighting
 myfunc <- function(x) {
   print(paste0('This is my input ', x))
