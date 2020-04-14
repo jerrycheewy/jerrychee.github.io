@@ -4,8 +4,11 @@
 date: Sys.Date()
 output: html_document
 ---
+\  
 
 ## Professional Experience
+
+------------------------------
 
 ### [Temasek International](https://www.temasek.com.sg/en/who-we-are/about-us)
 #### Associate Director, Quantitative Strategies & Performance
@@ -56,9 +59,11 @@ output: html_document
 * Pioneered quantitative analytics on the effectiveness of grants alongside resident Data Scientist
 * Special project for Private Equity subsidiary - Feasibility study on SGX-Catalist board as a viable exit strategy
 
-------------------------------------
+\  
 
 ## Internships
+
+------------------------------------
 
 ### [Morgan Stanley](https://www.morganstanley.com/people-opportunities/students-graduates/programs/institutional-securities/sales-and-trading/institutional-equity-summer-analyst-north-america)
 #### Institutional Equity Sales (Extended Internship)

@@ -4,7 +4,10 @@
 #date: "4/13/2020"
 output: html_document
 ---
+\  
+
 ### Temasek
+
 ![Temasek 1](images/recom1.JPG)
 ![Temasek 2](images/recom2.JPG)
 ![Temasek 3](images/recom3.JPG)
@@ -12,6 +15,7 @@ output: html_document
 -------------------
 
 ### Eastspring Investments
+
 ![Eastspring 1](images/recom4.JPG)
 ![Eastspring 2](images/recom5.JPG)
 ![Eastspring 3](images/recom6.JPG)
@@ -21,6 +25,7 @@ output: html_document
 --------------------
 
 ### Others
+
 ![Spring](images/recom9.JPG)
 ![DCatalyst](images/recom10.JPG)
 

@@ -4,6 +4,8 @@
 #ate: "4/13/2020"
 output: html_document
 ---
+\  
+
 ## Certifications
 
 * [Data Science and Data Engineering](https://certification.datasciencedojo.com/verify/2f9b3be3), *November 2019*

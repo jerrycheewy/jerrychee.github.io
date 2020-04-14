@@ -4,8 +4,10 @@
 #date: "4/13/2020"
 output: html_document
 ---
+\  
 
 I'm working on compiling the articles I've written over the course of work and leisure into a website. You may view them separately via the links below.
+
 
 **Working with data**
 
@@ -23,7 +25,6 @@ I'm working on compiling the articles I've written over the course of work and l
 
 7. [Misconception between reporting and analysis](https://www.linkedin.com/pulse/misconception-between-reporting-analysis-jerry-chee/)
 
---------------------------
 
 **Management**
 
