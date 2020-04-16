@@ -25,6 +25,8 @@ I'm working on compiling the articles I've written over the course of work and l
 
 7. [Misconception between reporting and analysis](https://www.linkedin.com/pulse/misconception-between-reporting-analysis-jerry-chee/)
 
+8. [Learning Python3, an R user's perspective (live notebook)](https://github.com/jerrycheewy/aRticles/blob/master/Learn_Python.ipynb)
+
 
 **Management**
 
