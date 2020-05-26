@@ -13,4 +13,4 @@ Since the beginning of my career in 2013, I've been pursuing opportunities to do
 
 What drives me at work and play is the ability to make a difference, and if possible, to do so with as many people as possible. I believe that relationships and teamwork are what make organisations tick, so I enjoy developing code and writing/teaching about code to empower others as I go about this journey.
 
-I spend much of my personal time with my family, learning R/Python3 and the remainder reading the [FT](https://www.ft.com/), [RBloggers](https://www.r-bloggers.com/), [Tidyverse](https://www.tidyverse.org/), [TowardsDataScience](https://towardsdatascience.com/), [TechCrunch](https://techcrunch.com/), [Mothership.sg](https://mothership.sg/).
+I spend much of my personal time with my family, learning R/Python3 and the remainder reading the [FT](https://www.ft.com/), [Rbloggers](https://www.r-bloggers.com/), [Tidyverse](https://www.tidyverse.org/), [TowardsDataScience](https://towardsdatascience.com/), [TechCrunch](https://techcrunch.com/), [Mothership.sg](https://mothership.sg/).
