@@ -1,16 +1,38 @@
 ---
-title: "About Jerry"
+title: "About me"
 #author: "Jerry Chee"
-#date: "4/13/2020"
+#date: "28 Oct 2021"
 output: html_document
 ---
 
-<img src="images/profilephoto.jpg" style="width:30%; border:2px solid; margin-right: 20px" align="left">
+<img src="images/File_001.jpeg" style="width:15%; border:2px solid; margin-right: 20px" align="left">
 
-I like using data to help people **make informed decisions**, **engage audience** with a stronger narrative or simply to **see their world differently**.
+Hi there! Thanks for visiting my page. 
 
-Since the beginning of my career in 2013, I've been pursuing opportunities to do just that and have successfully transitioned into increasingly data-centric roles.
+I'm what some call a 'quant', working in the beautiful intersection of data analytics and investments.
+
+**What do I do?**
+
+From researching human biases in portfolio managers to multi-asset class risk factors, I use data to help others make informed decisions and tell better stories.
+
+**But what is it that I really do?** 
+
+It's all about the business! Being able to make an impact with data first requires understanding the actual needs of the business. Stakeholder engagement and thinking with an investor's mindset is key to bringing the best use-case out of the data.
+
+**OK, so what is it that I really really do?**
+
+After having a good grasp of the business' problem statements, its all about - finding the right type of dataset, ingesting and cleaning data, exploring the suitability of data to a range of use-cases, failing and starting afresh, or sometimes (the lucky times) finding something that sticks and visualising the results in an digestible story (thanks ggplot!).
+
+The last step is truly challenging, as its less about a pretty chart but more about making a chart which brings across the point in an impactful way!
+
+I am constantly on the look out to build analytics capabilities for my team so that also requires me to keep abreast of other technologies like AWS, Tableau/QlikSense, databases and portfolio management and risk systems.
+
+Rinse and repeat.
+
+**How did I get here?**
+
+Since the beginning of my career in 2013, I've been pursuing opportunities to do just that and have transitioned into increasingly quantitative roles. I believe that decisions will increasingly be made based on sound data and those with tools to interpret and translate data into insights will gain a competitive edge.
 
 What drives me at work and play is the ability to make a difference, and if possible, to do so with as many people as possible. I believe that relationships and teamwork are what make organisations tick, so I enjoy developing code and writing/teaching about code to empower others as I go about this journey.
 
-I spend much of my personal time with my family, learning R/Python3 and the remainder reading the [FT](https://www.ft.com/), [Rbloggers](https://www.r-bloggers.com/), [Tidyverse](https://www.tidyverse.org/), [TowardsDataScience](https://towardsdatascience.com/), [TechCrunch](https://techcrunch.com/), [Mothership.sg](https://mothership.sg/).
+Asides from spending time with my family, I enjoy swimming and tinkering with new R packages on my free time.

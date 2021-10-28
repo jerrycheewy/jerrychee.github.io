@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
 
-<title>About Jerry</title>
+<title>About me</title>
 
+<script src="site_libs/header-attrs-2.6/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
@@ -25,6 +25,15 @@
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -70,6 +79,7 @@ h6 {
   text-align: left;
 }
 </style>
+
 
 
 
@@ -234,6 +244,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -289,13 +300,13 @@ $(document).ready(function () {
       <ul class="nav navbar-nav navbar-right">
         <li>
   <a href="mailto:jerrycheewy@gmail.com">
-    <span class="fa fa-envelope fa-lg"></span>
+    <span class="fas fa-envelope fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="https://www.linkedin.com/in/jerrychee/">
-    <span class="fa fa-linkedin fa-lg"></span>
+    <span class="fas fa-linkedin fa-lg"></span>
      
   </a>
 </li>
@@ -308,16 +319,27 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">About Jerry</h1>
+<h1 class="title toc-ignore">About me</h1>
 
 </div>
 
 
-<p><img src="images/profilephoto.jpg" style="width:30%; border:2px solid; margin-right: 20px" align="left"></p>
-<p>I like using data to help people <strong>make informed decisions</strong>, <strong>engage audience</strong> with a stronger narrative or simply to <strong>see their world differently</strong>.</p>
-<p>Since the beginning of my career in 2013, I’ve been pursuing opportunities to do just that and have successfully transitioned into increasingly data-centric roles.</p>
+<p><img src="images/File_001.jpeg" style="width:15%; border:2px solid; margin-right: 20px" align="left"></p>
+<p>Hi there! Thanks for visiting my page.</p>
+<p>I’m what some call a ‘quant’, working in the beautiful intersection of data analytics and investments.</p>
+<p><strong>What do I do?</strong></p>
+<p>From researching human biases in portfolio managers to multi-asset class risk factors, I use data to help others make informed decisions and tell better stories.</p>
+<p><strong>But what is it that I really do?</strong></p>
+<p>It’s all about the business! Being able to make an impact with data first requires understanding the actual needs of the business. Stakeholder engagement and thinking with an investor’s mindset is key to bringing the best use-case out of the data.</p>
+<p><strong>OK, so what is it that I really really do?</strong></p>
+<p>After having a good grasp of the business’ problem statements, its all about - finding the right type of dataset, ingesting and cleaning data, exploring the suitability of data to a range of use-cases, failing and starting afresh, or sometimes (the lucky times) finding something that sticks and visualising the results in an digestible story (thanks ggplot!).</p>
+<p>The last step is truly challenging, as its less about a pretty chart but more about making a chart which brings across the point in an impactful way!</p>
+<p>I am constantly on the look out to build analytics capabilities for my team so that also requires me to keep abreast of other technologies like AWS, Tableau/QlikSense, databases and portfolio management and risk systems.</p>
+<p>Rinse and repeat.</p>
+<p><strong>How did I get here?</strong></p>
+<p>Since the beginning of my career in 2013, I’ve been pursuing opportunities to do just that and have transitioned into increasingly quantitative roles. I believe that decisions will increasingly be made based on sound data and those with tools to interpret and translate data into insights will gain a competitive edge.</p>
 <p>What drives me at work and play is the ability to make a difference, and if possible, to do so with as many people as possible. I believe that relationships and teamwork are what make organisations tick, so I enjoy developing code and writing/teaching about code to empower others as I go about this journey.</p>
-<p>I spend much of my personal time with my family, learning R/Python3 and the remainder reading the <a href="https://www.ft.com/">FT</a>, <a href="https://www.r-bloggers.com/">Rbloggers</a>, <a href="https://www.tidyverse.org/">Tidyverse</a>, <a href="https://towardsdatascience.com/">TowardsDataScience</a>, <a href="https://techcrunch.com/">TechCrunch</a>, <a href="https://mothership.sg/">Mothership.sg</a>.</p>
+<p>Asides from spending time with my family, I enjoy swimming and tinkering with new R packages on my free time.</p>
 
 
 
@@ -328,7 +350,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
