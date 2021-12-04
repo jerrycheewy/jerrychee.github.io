@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
 
-<title>testimonials.utf8.md</title>
+<title>testimonials.utf8</title>
 
+<script src="site_libs/header-attrs-2.6/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
@@ -25,6 +25,15 @@
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -70,6 +79,7 @@ h6 {
   text-align: left;
 }
 </style>
+
 
 
 
@@ -234,6 +244,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -289,13 +300,13 @@ $(document).ready(function () {
       <ul class="nav navbar-nav navbar-right">
         <li>
   <a href="mailto:jerrycheewy@gmail.com">
-    <span class="fa fa-envelope fa-lg"></span>
+    <span class="fas fa-envelope fa-lg"></span>
      
   </a>
 </li>
 <li>
   <a href="https://www.linkedin.com/in/jerrychee/">
-    <span class="fa fa-linkedin fa-lg"></span>
+    <span class="fas fa-linkedin fa-lg"></span>
      
   </a>
 </li>
@@ -313,9 +324,13 @@ $(document).ready(function () {
 
 
 <p> </p>
-<div id="temasek" class="section level3">
-<h3>Temasek</h3>
-<p><img src="images/recom1.JPG" alt="Temasek 1" /> <img src="images/recom2.JPG" alt="Temasek 2" /> <img src="images/recom3.JPG" alt="Temasek 3" /></p>
+<div id="gic-pte-ltd" class="section level3">
+<h3>GIC Pte Ltd</h3>
+<p><img src="images/Matt.jpg" /></p>
+</div>
+<div id="temasek-international" class="section level3">
+<h3>Temasek International</h3>
+<p><img src="images/recom1.JPG" alt="Temasek 1" /> <img src="images/Melissa.jpg" alt="Temasek 7" /> <img src="images/recom2.JPG" alt="Temasek 2" /> <img src="images/recom3.JPG" alt="Temasek 3" /> <img src="images/Yonggang.jpg" alt="Temasek 4" /> <img src="images/Jialing.jpg" alt="Temasek 5" /> <img src="images/Si%20An.jpg" alt="Temasek 6" /></p>
 <hr />
 </div>
 <div id="eastspring-investments" class="section level3">
@@ -338,7 +353,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();

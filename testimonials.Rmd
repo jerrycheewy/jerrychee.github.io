@@ -6,11 +6,20 @@ output: html_document
 ---
 \  
 
-### Temasek
+### GIC Pte Ltd
+
+![](images/Matt.jpg)
+
+
+### Temasek International
 
 ![Temasek 1](images/recom1.JPG)
+![Temasek 7](images/Melissa.jpg)
 ![Temasek 2](images/recom2.JPG)
-![Temasek 3](images/recom3.JPG)
+![Temasek 3](images/recom3.JPG) 
+![Temasek 4](images/Yonggang.jpg)
+![Temasek 5](images/Jialing.jpg)
+![Temasek 6](images/Si An.jpg)
 
 -------------------
 
